@@ -26,7 +26,7 @@ This project provices two methods for decoding: greedy and beam search. You can 
     python infer.py --img_dir path --pretrained_dir path
     
 ## Checkpoint
-### This project provides a model with several iterations to prove it is convergent, and the weight can be downloaded from https://pan.baidu.com/s/11-0mw2yauhAr5iNatwS_lA £¬code: ag34
+### This project provides a model with several iterations to prove it is convergent, and the weight can be downloaded from https://pan.baidu.com/s/11-0mw2yauhAr5iNatwS_lA , code: ag34
 The accuracy of the weight is as follows:
 
 | Dataset  | IC03 | IC13 | IIIT5k |              
